@@ -3,6 +3,7 @@ const tags = require('./data/tags')
 const brands = require('./data/brands')
 const itemTypes = require('./data/itemTypes')
 const todos = require('./data/todos.json')
+const videos = require('./data/videos.json')
 
 module.exports = {
   items,
@@ -10,6 +11,7 @@ module.exports = {
   brands,
   itemTypes,
   todos,
+  videos,
 }
 
 // const items = require("./data/items");
