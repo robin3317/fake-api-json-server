@@ -436,6 +436,18 @@
       "type": "income",
       "amount": 20000,
       "id": 6
+    },
+    {
+      "name": "Win a lottery",
+      "type": "income",
+      "amount": 1000,
+      "id": 7
+    },
+    {
+      "name": "Car maintenance",
+      "type": "expense",
+      "amount": 7000,
+      "id": 8
     }
   ]
 }
