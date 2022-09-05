@@ -403,7 +403,7 @@
   "transactions": [
     {
       "name": "Salary from Google",
-      "amount": "50000",
+      "amount": 50000,
       "type": "income",
       "id": 1
     },
