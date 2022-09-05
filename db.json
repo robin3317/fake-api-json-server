@@ -402,22 +402,40 @@
   ],
   "transactions": [
     {
-      "name": "Pendrive",
-      "amount": "500",
-      "type": "expense",
+      "name": "Salary from Google",
+      "amount": "50000",
+      "type": "income",
       "id": 1
     },
     {
-      "name": "Salary",
+      "name": "Upwork income",
       "type": "income",
       "amount": 20000,
       "id": 2
     },
     {
-      "name": "upori income",
-      "type": "income",
+      "name": "House rent",
+      "type": "expense",
       "amount": 20000,
       "id": 3
+    },
+    {
+      "name": "Sell macbook pro",
+      "type": "income",
+      "amount": 200000,
+      "id": 4
+    },
+    {
+      "name": "Bike maintenance",
+      "type": "expense",
+      "amount": 5000,
+      "id": 5
+    },
+    {
+      "name": "Dokhan bara",
+      "type": "income",
+      "amount": 20000,
+      "id": 6
     }
   ]
 }
